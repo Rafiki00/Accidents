@@ -1,0 +1,13 @@
+name: Accidents
+title: Accidents
+username:
+account: rafiki00
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 995965
+bundleId: 2175123
+url: https://rafiki00.shinyapps.io/Accidents/
+when: 1561404236.7046
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2007_Acc.xls|2008_Acc.xls|2009_Acc.xls|2010_Acc.xls|2011_Acc.xls|2012_Acc.xls|2013_Acc.xls|2014_Acc.xls|2015_Acc.xls|2016_Acc.xls|2017_Acc.xls|analysis.R

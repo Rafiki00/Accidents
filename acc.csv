@@ -1,0 +1,232 @@
+"","district","year","accidents"
+"1","València","2007",8199
+"2","Ciutat Vella","2007",474
+"3","l'Eixample","2007",653
+"4","Extramurs","2007",664
+"5","Campanar","2007",611
+"6","la Saïdia","2007",504
+"7","el Pla del Real","2007",512
+"8","l'Olivereta","2007",460
+"9","Patraix","2007",439
+"10","Jesús","2007",377
+"11","Quatre Carreres","2007",681
+"12","Poblats Marítims","2007",527
+"13","Camins al Grau","2007",445
+"14","Algirós","2007",307
+"15","Benimaclet","2007",166
+"16","Rascanya","2007",374
+"17","Benicalap","2007",352
+"18","Pobles del Nord","2007",76
+"19","Pobles de l'Oest","2007",125
+"20","Pobles del Sud","2007",282
+"21","Unknown","2007",170
+"22","València","2008",7216
+"23","Ciutat Vella","2008",405
+"24","l'Eixample","2008",573
+"25","Extramurs","2008",621
+"26","Campanar","2008",465
+"27","la Saïdia","2008",368
+"28","el Pla del Real","2008",403
+"29","l'Olivereta","2008",506
+"30","Patraix","2008",370
+"31","Jesús","2008",352
+"32","Quatre Carreres","2008",616
+"33","Poblats Marítims","2008",441
+"34","Camins al Grau","2008",451
+"35","Algirós","2008",303
+"36","Benimaclet","2008",170
+"37","Rascanya","2008",322
+"38","Benicalap","2008",289
+"39","Pobles del Nord","2008",89
+"40","Pobles de l'Oest","2008",94
+"41","Pobles del Sud","2008",227
+"42","Unknown","2008",151
+"43","València","2009",6587
+"44","Ciutat Vella","2009",527
+"45","l'Eixample","2009",494
+"46","Extramurs","2009",527
+"47","Campanar","2009",519
+"48","la Saïdia","2009",459
+"49","el Pla del Real","2009",652
+"50","l'Olivereta","2009",301
+"51","Patraix","2009",376
+"52","Jesús","2009",359
+"53","Quatre Carreres","2009",459
+"54","Poblats Marítims","2009",336
+"55","Camins al Grau","2009",354
+"56","Algirós","2009",237
+"57","Benimaclet","2009",55
+"58","Rascanya","2009",317
+"59","Benicalap","2009",172
+"60","Pobles del Nord","2009",49
+"61","Pobles de l'Oest","2009",82
+"62","Pobles del Sud","2009",182
+"63","Unknown","2009",130
+"64","València","2010",6793
+"65","Ciutat Vella","2010",602
+"66","l'Eixample","2010",508
+"67","Extramurs","2010",596
+"68","Campanar","2010",612
+"69","la Saïdia","2010",575
+"70","el Pla del Real","2010",768
+"71","l'Olivereta","2010",507
+"72","Patraix","2010",175
+"73","Jesús","2010",183
+"74","Quatre Carreres","2010",490
+"75","Poblats Marítims","2010",501
+"76","Camins al Grau","2010",291
+"77","Algirós","2010",106
+"78","Benimaclet","2010",84
+"79","Rascanya","2010",265
+"80","Benicalap","2010",97
+"81","Pobles del Nord","2010",47
+"82","Pobles de l'Oest","2010",74
+"83","Pobles del Sud","2010",196
+"84","Unknown","2010",116
+"85","València","2011",6638
+"86","Ciutat Vella","2011",493
+"87","l'Eixample","2011",472
+"88","Extramurs","2011",499
+"89","Campanar","2011",595
+"90","la Saïdia","2011",449
+"91","el Pla del Real","2011",775
+"92","l'Olivereta","2011",273
+"93","Patraix","2011",416
+"94","Jesús","2011",331
+"95","Quatre Carreres","2011",505
+"96","Poblats Marítims","2011",233
+"97","Camins al Grau","2011",295
+"98","Algirós","2011",247
+"99","Benimaclet","2011",71
+"100","Rascanya","2011",404
+"101","Benicalap","2011",181
+"102","Pobles del Nord","2011",42
+"103","Pobles de l'Oest","2011",59
+"104","Pobles del Sud","2011",193
+"105","Unknown","2011",105
+"106","València","2012",7491
+"107","Ciutat Vella","2012",576
+"108","l'Eixample","2012",547
+"109","Extramurs","2012",602
+"110","Campanar","2012",619
+"111","la Saïdia","2012",454
+"112","el Pla del Real","2012",852
+"113","l'Olivereta","2012",281
+"114","Patraix","2012",505
+"115","Jesús","2012",374
+"116","Quatre Carreres","2012",682
+"117","Poblats Marítims","2012",311
+"118","Camins al Grau","2012",360
+"119","Algirós","2012",273
+"120","Benimaclet","2012",75
+"121","Rascanya","2012",425
+"122","Benicalap","2012",225
+"123","Pobles del Nord","2012",41
+"124","Pobles de l'Oest","2012",68
+"125","Pobles del Sud","2012",217
+"126","Unknown","2012",4
+"127","València","2013",7612
+"128","Ciutat Vella","2013",408
+"129","l'Eixample","2013",612
+"130","Extramurs","2013",749
+"131","Campanar","2013",569
+"132","la Saïdia","2013",379
+"133","el Pla del Real","2013",621
+"134","l'Olivereta","2013",414
+"135","Patraix","2013",460
+"136","Jesús","2013",229
+"137","Quatre Carreres","2013",652
+"138","Poblats Marítims","2013",296
+"139","Camins al Grau","2013",477
+"140","Algirós","2013",247
+"141","Benimaclet","2013",295
+"142","Rascanya","2013",354
+"143","Benicalap","2013",291
+"144","Pobles del Nord","2013",40
+"145","Pobles de l'Oest","2013",108
+"146","Pobles del Sud","2013",279
+"147","Unknown","2013",132
+"148","València","2014",7719
+"149","Ciutat Vella","2014",438
+"150","l'Eixample","2014",618
+"151","Extramurs","2014",760
+"152","Campanar","2014",594
+"153","la Saïdia","2014",359
+"154","el Pla del Real","2014",636
+"155","l'Olivereta","2014",453
+"156","Patraix","2014",496
+"157","Jesús","2014",201
+"158","Quatre Carreres","2014",635
+"159","Poblats Marítims","2014",297
+"160","Camins al Grau","2014",486
+"161","Algirós","2014",242
+"162","Benimaclet","2014",259
+"163","Rascanya","2014",368
+"164","Benicalap","2014",293
+"165","Pobles del Nord","2014",52
+"166","Pobles de l'Oest","2014",91
+"167","Pobles del Sud","2014",326
+"168","Unknown","2014",115
+"169","València","2015",7629
+"170","Ciutat Vella","2015",431
+"171","l'Eixample","2015",603
+"172","Extramurs","2015",687
+"173","Campanar","2015",619
+"174","la Saïdia","2015",481
+"175","el Pla del Real","2015",855
+"176","l'Olivereta","2015",324
+"177","Patraix","2015",517
+"178","Jesús","2015",344
+"179","Quatre Carreres","2015",658
+"180","Poblats Marítims","2015",419
+"181","Camins al Grau","2015",391
+"182","Algirós","2015",174
+"183","Benimaclet","2015",93
+"184","Rascanya","2015",407
+"185","Benicalap","2015",212
+"186","Pobles del Nord","2015",50
+"187","Pobles de l'Oest","2015",66
+"188","Pobles del Sud","2015",189
+"189","Unknown","2015",109
+"190","València","2016",8221
+"191","Ciutat Vella","2016",506
+"192","l'Eixample","2016",628
+"193","Extramurs","2016",711
+"194","Campanar","2016",695
+"195","la Saïdia","2016",478
+"196","el Pla del Real","2016",907
+"197","l'Olivereta","2016",371
+"198","Patraix","2016",570
+"199","Jesús","2016",398
+"200","Quatre Carreres","2016",685
+"201","Poblats Marítims","2016",459
+"202","Camins al Grau","2016",400
+"203","Algirós","2016",182
+"204","Benimaclet","2016",103
+"205","Rascanya","2016",454
+"206","Benicalap","2016",196
+"207","Pobles del Nord","2016",57
+"208","Pobles de l'Oest","2016",73
+"209","Pobles del Sud","2016",202
+"210","Unknown","2016",146
+"211","València","2017",8356
+"212","Ciutat Vella","2017",486
+"213","l'Eixample","2017",617
+"214","Extramurs","2017",766
+"215","Campanar","2017",557
+"216","la Saïdia","2017",444
+"217","el Pla del Real","2017",426
+"218","l'Olivereta","2017",565
+"219","Patraix","2017",500
+"220","Jesús","2017",310
+"221","Quatre Carreres","2017",759
+"222","Poblats Marítims","2017",581
+"223","Camins al Grau","2017",468
+"224","Algirós","2017",252
+"225","Benimaclet","2017",309
+"226","Rascanya","2017",406
+"227","Benicalap","2017",343
+"228","Pobles del Nord","2017",103
+"229","Pobles de l'Oest","2017",75
+"230","Pobles del Sud","2017",257
+"231","Unknown","2017",132
